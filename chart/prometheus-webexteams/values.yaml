@@ -2,8 +2,8 @@
 replicaCount: 1
 
 image:
-  repository: quay.io/prometheuswebexteams/prometheus-webexteams
-  tag: v0.0.1
+  repository: infonova/prometheus-webexteams
+  tag: master-76d693b
   pullPolicy: Always
 
 extraEnvs:
